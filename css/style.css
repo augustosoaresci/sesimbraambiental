@@ -61,7 +61,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    color:#d4af37;
+    color:#d1bc8f;
 }
 
 .hero{
@@ -113,7 +113,7 @@ nav ul li a:hover{
 }
 
 .hero-text span{
-    color:#d4af37;
+    color:#d1bc8f;
 }
 
 .hero-text p{
@@ -135,7 +135,7 @@ nav ul li a:hover{
 
 .btn{
     display:inline-block;
-    background:#d4af37;
+    background:#d1bc8f;
     color:#fff;
     padding:15px 35px;
     text-decoration:none;
@@ -286,7 +286,7 @@ footer{
 
 .header-btn{
     background:#d1bc8f;
-    color:#fff;
+    color:#0f4d3a;
     text-decoration:none;
     padding:12px 24px;
     border-radius:10px;
