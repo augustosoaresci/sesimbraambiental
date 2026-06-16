@@ -35,12 +35,12 @@ header .container{
     justify-content:space-between;
     align-items:center;
     padding:15px 0;
-    height:80px;
+    height:70px;
 
 }
 
 .logo img{
-    height:95px;
+    height:75px;
     width:auto;
 }
 
@@ -97,7 +97,7 @@ nav ul li a:hover{
 
     color:#fff;
 
-    padding-top:60px;
+    padding-top:0px;
 
 }
 
@@ -129,9 +129,9 @@ nav ul li a:hover{
 }
 
 .hero-image img{
-    max-width:360px;
+    max-width:300px;
     width:100%;
-    opacity:0.85;
+    opacity:0.70;
 }
 
 .btn{
