@@ -40,7 +40,7 @@ header .container{
 }
 
 .logo img{
-    height:80px;
+    height:95px;
     width:auto;
 }
 
@@ -129,7 +129,7 @@ nav ul li a:hover{
 }
 
 .hero-image img{
-    max-width:650px;
+    max-width:500px;
     width:100%;
 }
 
@@ -285,7 +285,7 @@ footer{
 }
 
 .header-btn{
-    background:#d4af37;
+    background:#d1bc8f;
     color:#fff;
     text-decoration:none;
     padding:12px 24px;
