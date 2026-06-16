@@ -65,7 +65,7 @@ nav ul li a:hover{
 }
 
 .hero{
-    height:520px;
+    height:650px;
     margin-top:80px;
     background:url('../imagens/banner.jpg') center center/cover no-repeat;
     position:relative;
@@ -129,8 +129,9 @@ nav ul li a:hover{
 }
 
 .hero-image img{
-    max-width:500px;
+    max-width:360px;
     width:100%;
+    opacity:0.85;
 }
 
 .btn{
