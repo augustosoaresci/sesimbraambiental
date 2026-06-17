@@ -132,6 +132,7 @@ nav ul li a:hover{
     max-width:300px;
     width:100%;
     opacity:0.70;
+    transform: translateX(20px);
 }
 
 .btn{
