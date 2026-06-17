@@ -67,7 +67,7 @@ nav ul li a:hover{
 .hero{
     height:500px;
     margin-top:70px;
-    background:url('../imagens/banner.jpg') center top/cover no-repeat;
+    background:url('../imagens/banner.jpg') center center/110% no-repeat;
     position:relative;
 }
 
@@ -76,15 +76,19 @@ nav ul li a:hover{
     height:100%;
 
     background:
-    linear-gradient(
-        90deg,
-        rgba(0,40,20,.75) 0%,
-        rgba(0,40,20,.60) 20%,
-        rgba(0,40,20,.30) 35%,
-        rgba(0,40,20,.10) 45%,
-        rgba(0,40,20,0) 55%
-    );
-
+linear-gradient(
+    to right,
+    rgba(0,40,20,.70) 0%,
+    rgba(0,40,20,.50) 30%,
+    rgba(0,40,20,.15) 50%,
+    rgba(0,40,20,0) 65%
+),
+linear-gradient(
+    to bottom,
+    rgba(0,0,0,.10) 0%,
+    rgba(0,0,0,.05) 40%,
+    rgba(0,0,0,0) 100%
+);
     display:flex;
     justify-content:center;
     align-items:center;
