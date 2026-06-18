@@ -131,7 +131,7 @@ nav ul li a:hover{
 }
 
 .hero-image img{
-    max-width:300px;
+    max-width:280px;
     width:100%;
     opacity:0.70;
     transform: translateX(60px);
